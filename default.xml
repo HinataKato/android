@@ -22,7 +22,7 @@
            sync-j="4" />
 
   <remote  name="crdroid"
-           fetch="https://hub.fastlab.org/"
+           fetch="https://hub.fastgit.org"
            sync-c="true"
            sync-j="4"
            revision="refs/heads/11.0" />
