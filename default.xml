@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch="https://hub.fastgit.org/"/>
+           fetch="https://github.com/"/>
 
   <remote  name="lineage"
            fetch="https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS/"
@@ -22,7 +22,7 @@
            sync-j="4" />
 
   <remote  name="crdroid"
-           fetch="https://hub.fastgit.org/"
+           fetch="https://github.com/"
            sync-c="true"
            sync-j="4"
            revision="refs/heads/11.0" />
